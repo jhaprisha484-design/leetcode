@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/jhaprisha484-design/leetcode/tree/master/0001-two-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jhaprisha484-design/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
 |  |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jhaprisha484-design/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/jhaprisha484-design/leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
