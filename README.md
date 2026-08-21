@@ -30,4 +30,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/jhaprisha484-design/leetcode/tree/master/0007-reverse-integer) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/jhaprisha484-design/leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 <!---LeetCode Topics End-->
