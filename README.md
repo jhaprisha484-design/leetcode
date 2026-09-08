@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/jhaprisha484-design/leetcode/tree/master/0001-two-sum) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/jhaprisha484-design/leetcode/tree/master/3131-find-the-integer-added-to-array-i) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/jhaprisha484-design/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/jhaprisha484-design/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Bit Manipulation
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/jhaprisha484-design/leetcode/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/jhaprisha484-design/leetcode/tree/master/0067-add-binary) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/jhaprisha484-design/leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/jhaprisha484-design/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Simulation
 |  |
 | ------- |
