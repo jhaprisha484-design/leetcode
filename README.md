@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1551-minimum-operations-to-make-array-equal](https://github.com/jhaprisha484-design/leetcode/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/jhaprisha484-design/leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/jhaprisha484-design/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2544-alternating-digit-sum](https://github.com/jhaprisha484-design/leetcode/tree/master/2544-alternating-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/jhaprisha484-design/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Simulation
 |  |
