@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3131-find-the-integer-added-to-array-i](https://github.com/jhaprisha484-design/leetcode/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/jhaprisha484-design/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/jhaprisha484-design/leetcode/tree/master/3683-earliest-time-to-finish-one-task) |
+| [3701-compute-alternating-sum](https://github.com/jhaprisha484-design/leetcode/tree/master/3701-compute-alternating-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/jhaprisha484-design/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Bit Manipulation
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/jhaprisha484-design/leetcode/tree/master/0067-add-binary) |
+| [3701-compute-alternating-sum](https://github.com/jhaprisha484-design/leetcode/tree/master/3701-compute-alternating-sum) |
 ## Stack
 |  |
 | ------- |
