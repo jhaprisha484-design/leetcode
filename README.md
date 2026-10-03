@@ -17,12 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jhaprisha484-design/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/jhaprisha484-design/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jhaprisha484-design/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jhaprisha484-design/leetcode/tree/master/0001-two-sum) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/jhaprisha484-design/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/jhaprisha484-design/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/jhaprisha484-design/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/jhaprisha484-design/leetcode/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/jhaprisha484-design/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -59,4 +61,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/jhaprisha484-design/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Binary Search
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/jhaprisha484-design/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Greedy
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/jhaprisha484-design/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Sorting
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/jhaprisha484-design/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/jhaprisha484-design/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
