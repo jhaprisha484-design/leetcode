@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jhaprisha484-design/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0067-add-binary](https://github.com/jhaprisha484-design/leetcode/tree/master/0067-add-binary) |
+| [0344-reverse-string](https://github.com/jhaprisha484-design/leetcode/tree/master/0344-reverse-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jhaprisha484-design/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/jhaprisha484-design/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/jhaprisha484-design/leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
