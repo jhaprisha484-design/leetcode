@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/jhaprisha484-design/leetcode/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/jhaprisha484-design/leetcode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/jhaprisha484-design/leetcode/tree/master/0344-reverse-string) |
+| [0796-rotate-string](https://github.com/jhaprisha484-design/leetcode/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/jhaprisha484-design/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jhaprisha484-design/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
@@ -87,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/jhaprisha484-design/leetcode/tree/master/0344-reverse-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/jhaprisha484-design/leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
