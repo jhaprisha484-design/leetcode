@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jhaprisha484-design/leetcode/tree/master/0001-two-sum) |
+| [0152-maximum-product-subarray](https://github.com/jhaprisha484-design/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/jhaprisha484-design/leetcode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/jhaprisha484-design/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/jhaprisha484-design/leetcode/tree/master/0268-missing-number) |
@@ -125,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/jhaprisha484-design/leetcode/tree/master/0229-majority-element-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/jhaprisha484-design/leetcode/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
