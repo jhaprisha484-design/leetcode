@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/jhaprisha484-design/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jhaprisha484-design/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0205-isomorphic-strings](https://github.com/jhaprisha484-design/leetcode/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/jhaprisha484-design/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/jhaprisha484-design/leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/jhaprisha484-design/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jhaprisha484-design/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/jhaprisha484-design/leetcode/tree/master/0001-two-sum) |
 | [0189-rotate-array](https://github.com/jhaprisha484-design/leetcode/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/jhaprisha484-design/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/jhaprisha484-design/leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/jhaprisha484-design/leetcode/tree/master/0485-max-consecutive-ones) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/jhaprisha484-design/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/jhaprisha484-design/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/jhaprisha484-design/leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/jhaprisha484-design/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/jhaprisha484-design/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -116,5 +119,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/jhaprisha484-design/leetcode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/jhaprisha484-design/leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/jhaprisha484-design/leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
