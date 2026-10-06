@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jhaprisha484-design/leetcode/tree/master/0001-two-sum) |
+| [0189-rotate-array](https://github.com/jhaprisha484-design/leetcode/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/jhaprisha484-design/leetcode/tree/master/0485-max-consecutive-ones) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/jhaprisha484-design/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/jhaprisha484-design/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/jhaprisha484-design/leetcode/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/jhaprisha484-design/leetcode/tree/master/0067-add-binary) |
+| [0189-rotate-array](https://github.com/jhaprisha484-design/leetcode/tree/master/0189-rotate-array) |
 | [0507-perfect-number](https://github.com/jhaprisha484-design/leetcode/tree/master/0507-perfect-number) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/jhaprisha484-design/leetcode/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/jhaprisha484-design/leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/jhaprisha484-design/leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/jhaprisha484-design/leetcode/tree/master/0344-reverse-string) |
 ## String Matching
 |  |
