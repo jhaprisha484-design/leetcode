@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/jhaprisha484-design/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/jhaprisha484-design/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/jhaprisha484-design/leetcode/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/jhaprisha484-design/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/jhaprisha484-design/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/jhaprisha484-design/leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/jhaprisha484-design/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/jhaprisha484-design/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/jhaprisha484-design/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/jhaprisha484-design/leetcode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/jhaprisha484-design/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/jhaprisha484-design/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/jhaprisha484-design/leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/jhaprisha484-design/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/jhaprisha484-design/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/jhaprisha484-design/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/jhaprisha484-design/leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/jhaprisha484-design/leetcode/tree/master/0451-sort-characters-by-frequency) |
