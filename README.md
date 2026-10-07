@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/jhaprisha484-design/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jhaprisha484-design/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/jhaprisha484-design/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0202-happy-number](https://github.com/jhaprisha484-design/leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/jhaprisha484-design/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/jhaprisha484-design/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/jhaprisha484-design/leetcode/tree/master/0229-majority-element-ii) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/jhaprisha484-design/leetcode/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/jhaprisha484-design/leetcode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/jhaprisha484-design/leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/jhaprisha484-design/leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/jhaprisha484-design/leetcode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/jhaprisha484-design/leetcode/tree/master/0507-perfect-number) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/jhaprisha484-design/leetcode/tree/master/1551-minimum-operations-to-make-array-equal) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/jhaprisha484-design/leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/jhaprisha484-design/leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/jhaprisha484-design/leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/jhaprisha484-design/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## String Matching
@@ -144,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/jhaprisha484-design/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/jhaprisha484-design/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
