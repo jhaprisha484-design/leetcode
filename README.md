@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/jhaprisha484-design/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jhaprisha484-design/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/jhaprisha484-design/leetcode/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/jhaprisha484-design/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/jhaprisha484-design/leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/jhaprisha484-design/leetcode/tree/master/0205-isomorphic-strings) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jhaprisha484-design/leetcode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/jhaprisha484-design/leetcode/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/jhaprisha484-design/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/jhaprisha484-design/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/jhaprisha484-design/leetcode/tree/master/0189-rotate-array) |
@@ -151,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/jhaprisha484-design/leetcode/tree/master/0202-happy-number) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/jhaprisha484-design/leetcode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
