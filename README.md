@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/jhaprisha484-design/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jhaprisha484-design/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/jhaprisha484-design/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/jhaprisha484-design/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jhaprisha484-design/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/jhaprisha484-design/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jhaprisha484-design/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/jhaprisha484-design/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/jhaprisha484-design/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/jhaprisha484-design/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/jhaprisha484-design/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/jhaprisha484-design/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/jhaprisha484-design/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/jhaprisha484-design/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Two Pointers
 |  |
