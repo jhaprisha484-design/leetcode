@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/jhaprisha484-design/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/jhaprisha484-design/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jhaprisha484-design/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/jhaprisha484-design/leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sliding Window
 |  |
 | ------- |
